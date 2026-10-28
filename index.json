@@ -1,0 +1,11 @@
+{
+  "org": "zarr-developers",
+  "repo": "zarr-python-planning",
+  "versions": [
+    {
+      "commit": "9dc53de99ac7aaec103a0e0d2883178ff26474b4",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:03:15.424797+00:00"
+    }
+  ]
+}
